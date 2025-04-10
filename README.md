@@ -3,7 +3,7 @@
 ## Hi there 👋 I'm Avik Das,
 ### 💻 Associate Consultant | DS/ML Enthusiast | PGCP in DS and ML IIT-R
 
-A Data analyst professional passionate about Data Science :bar_chart:. I like automating, building Machine learning models, improving, optimizing processes amd visualizing outcomes to explain laymen. I am a Strong Advocate for 📜 open source, :code: coding, 🚀 Growth, :new: Innovation and Automation :robot: 
+A Data analyst professional passionate about Data Science :bar_chart:. I like automating, building Machine learning models, improving, optimizing processes amd visualizing outcomes to explain laymen. I am a Strong Advocate for 📜 open source, 💻: coding, 🚀 Growth, :new: Innovation and Automation :robot: 
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - :bulb: I'm interested in all things data: **Data, Analytics, Machine Learning and Data Science**
