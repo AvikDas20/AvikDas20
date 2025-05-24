@@ -1,7 +1,7 @@
 ![ViewCount](https://komarev.com/ghpvc/?username=AvikDas20&color=green)
 
 ## Hi there 👋 I'm Avik Das,
-### 💻 Associate Consultant | DS/ML Enthusiast | PGCP in DS and ML IIT-R
+### 💻 Associate Consultant | DS/ML Enthusiast | PGCP in DS and ML | IIT-R | BITS Pilani
 
 A Data analyst professional passionate about Data Science :bar_chart:. I like automating, building Machine learning models, improving, optimizing processes amd visualizing outcomes to explain laymen. I am a Strong Advocate for 📜 open source, 💻: coding, 🚀 Growth, :new: Innovation and Automation :robot: 
 
